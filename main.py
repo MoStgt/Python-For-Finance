@@ -53,12 +53,12 @@ for x in emasUsed:
     df["Ema_"+str(ema)] = round(df.iloc[:, 4].ewm(span=ema, adjust=False).mean(), 2)
 print(df.tail())
 
-
 pos=0
 num=0
 percentchange=[]
 
 for i in df.index:
+    print(i)
     cmin = min(df["Ema_3"][i], df["Ema_5"][i], df["Ema_8"][i], df["Ema_10"][i], df["Ema_12"][i], df["Ema_15"][i])
     cmax = max(df["Ema_30"][i], df["Ema_35"][i], df["Ema_40"][i], df["Ema_45"][i], df["Ema_50"][i], df["Ema_60"][i])
 
