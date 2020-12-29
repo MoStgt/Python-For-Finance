@@ -6,7 +6,7 @@
 - Cross-sectional Strategies
 - Alternative-data based Strategies
 ## Hypothesis
-## Getting Data
-## Preprocess
+## Getting data
+## Preprocess data
 ## Test hypothesis, backtesting
 ## Trading
