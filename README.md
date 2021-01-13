@@ -7,6 +7,8 @@
 - Alternative-data based Strategies
 ## Hypothesis
 ## Getting data
-## Preprocess data
+## Preprocess/clean data
+ - Check for missing data
+ - Identify outliers
 ## Test hypothesis, backtesting
 ## Trading
