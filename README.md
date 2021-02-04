@@ -5,6 +5,8 @@ Discover significant strategy/trading signal:
 - Single Asset Strategies
 - Pairwise Strategies
 - Cross-sectional Strategies
+- smart beta, factor investing
+- style investing
 - Alternative-data based Strategies
 ## Hypothesis
 ## Getting data
