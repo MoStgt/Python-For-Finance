@@ -8,6 +8,8 @@ Discover significant strategy/trading signal:
 - smart beta, factor investing
 - style investing
 - Alternative-data based Strategies
+- ARCH, Autoregressive Conditionally Heteroscedastic
+- Mean Reversion Strategy
 ## Hypothesis
 ## Getting data
 ## Preprocess/clean data
